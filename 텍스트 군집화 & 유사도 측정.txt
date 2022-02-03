@@ -1,0 +1,13 @@
+텍스트 군집화 및 유사도 측정
+
+NLP(자연어 처리) AI 문서 군집화와 문서간 유사도 측정하기
+
+-k-means를 활용한 문서 군집화
+
+-코사인 유사도
+
+https://techblog-history-younghunjo1.tistory.com/114
+
+https://yuna96.tistory.com/82
+
+https://wonhwa.tistory.com/26
